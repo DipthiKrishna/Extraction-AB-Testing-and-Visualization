@@ -1,5 +1,5 @@
 # Extraction-AB-Testing-and-Visualization
-Config files for my GitHub profile.
+You may find the work files and Tableau visualization links here
 
 The spreadsheet link: https://docs.google.com/spreadsheets/d/1gH7MNivTpAm77E1xByxKSn19MJv6TjhPB_ulyKjOt60/edit?usp=sharing
 
